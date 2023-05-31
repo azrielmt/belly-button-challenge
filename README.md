@@ -1,6 +1,6 @@
 # belly-button-challenge
 
-## Link here: azrielmt.github.io
+## Link here for deployment: azrielmt.github.io
 
 - Start_Code folder has everything in regards to code, including the JS file and index.html file.
 
